@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GPA_sharman6_Calculator</string>
+    <string name="course1">Web Development</string>
+    <string name="course2">Project Mgmt</string>
+    <string name="course3">Operating Systems</string>
+    <string name="course4">Networks</string>
+    <string name="course5">Mobile Computing</string>
+    <string name="pageTopLabel">GPA Calculator</string>
+    <string name="colLeft">Courses</string>
+    <string name="colRight">Grades</string>
+    <string name="btnText">Compute GPA</string>
+    <string name="btnTextClear">Clear Form</string>
+    <string name="inputGradeTxt">Enter Percent Grade</string>
+    <string name="outputGradeTxt">Your GPA is:</string>
+</resources>
